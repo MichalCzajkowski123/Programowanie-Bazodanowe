@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj": {
+    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\obj\\",
+        "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,15 +26,82 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
-                "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj"
+              "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj"
               }
             }
           }
@@ -49,7 +115,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -92,25 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\obj\\",
+        "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,7 +185,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -137,7 +202,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -158,25 +224,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -185,15 +250,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj": {
-                "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj"
+              "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj"
               }
             }
           }
@@ -207,7 +271,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -253,7 +318,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

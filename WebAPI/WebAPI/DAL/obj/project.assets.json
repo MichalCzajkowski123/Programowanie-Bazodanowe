@@ -1609,6 +1609,16 @@
           }
         }
       },
+      "BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
       "Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -4732,6 +4742,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
     "Model/1.0.0": {
       "type": "project",
       "path": "../Model/Model.csproj",
@@ -4740,6 +4755,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BLL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
@@ -4748,25 +4764,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Michał\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\obj\\",
+      "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4775,15 +4789,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
-              "projectPath": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj"
+            "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj"
+            },
+            "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj"
             }
           }
         }
@@ -4797,7 +4813,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4840,7 +4857,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
