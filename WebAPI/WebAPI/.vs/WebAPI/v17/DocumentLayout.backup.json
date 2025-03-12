@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll_ef\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll_ef\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll_ef\\productgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\productgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll_ef\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll_ef\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6162E4-A213-418E-BCFF-0850C28D5DAD}|BLL_EF\\BLL_EF.csproj|solutionrelative:bll_ef\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\servicesinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,26 +51,6 @@
       "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\iproductgroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\servicesinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\servicesinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\userloginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\productgrouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productgrouprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,36 +59,28 @@
       "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productgroupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\servicesinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\servicesinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\servicesinterfaces\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\orderdetailsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\orderdetailsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\basketposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\dal\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|solutionrelative:dal\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\orderposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,6 +89,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|solutionrelative:dal\\webstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\dal\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|solutionrelative:dal\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD35D071-79FB-441F-9993-7D3A12C94B05}|BLL\\BLL.csproj|solutionrelative:bll\\dtomodels\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073D41B7-2203-4BA2-B893-87FEE63CB560}|Model\\Model.csproj|solutionrelative:model\\productgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB0B7366-DC42-4FF3-8EE6-C6B1B3F1BAB3}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00D867B4-CB13-4141-BED7-9D1DD83EBC9C}|WebAPI\\WebAPI.csproj|c:\\users\\micha\u0142\\documents\\github\\programowanie-bazodanowe\\webapi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -113,76 +141,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductGroupService.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductGroupService.cs",
-              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IProductGroupService.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductGroupService.cs",
-              "RelativeToolTip": "BLL\\ServicesInterfaces\\IProductGroupService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:25:44.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductService.cs",
-              "RelativeToolTip": "BLL\\ServicesInterfaces\\IProductService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:38:42.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\ProductService.cs",
+              "RelativeToolTip": "BLL_EF\\ProductService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:00:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\OrderService.cs",
+              "RelativeToolTip": "BLL_EF\\OrderService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswJoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:03:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IUserService.cs",
               "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IUserService.cs",
               "RelativeToolTip": "BLL\\ServicesInterfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T15:53:19.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBasketService.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IBasketService.cs",
-              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IBasketService.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IBasketService.cs",
-              "RelativeToolTip": "BLL\\ServicesInterfaces\\IBasketService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "UserLoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\UserLoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\UserLoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\UserLoginRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\UserLoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:41:10.373Z",
+              "WhenOpened": "2025-03-12T15:37:05.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:55:21.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:08:26.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\ProductGroupService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\ProductGroupService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\ProductGroupService.cs",
+              "RelativeToolTip": "BLL_EF\\ProductGroupService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:15:53.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\BasketService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\BasketService.cs",
+              "RelativeToolTip": "BLL_EF\\BasketService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:45:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL_EF\\UserService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_EF\\UserService.cs",
+              "RelativeToolTip": "BLL_EF\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:32:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductService.cs",
+              "RelativeToolTip": "BLL\\ServicesInterfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:38:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:38:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductGroupService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IProductGroupService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IProductGroupService.cs",
+              "RelativeToolTip": "BLL\\ServicesInterfaces\\IProductGroupService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:25:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductGroupResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:23:46.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IOrderService.cs",
               "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IOrderService.cs",
               "RelativeToolTip": "BLL\\ServicesInterfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T15:52:58.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IBasketService.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicesInterfaces\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\ServicesInterfaces\\IBasketService.cs",
+              "RelativeToolTip": "BLL\\ServicesInterfaces\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:41:10.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductGroupRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:24:47.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:35:45.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetailsResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:36:24.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasketPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\BasketPosition.cs",
+              "RelativeDocumentMoniker": "Model\\BasketPosition.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\BasketPosition.cs",
+              "RelativeToolTip": "Model\\BasketPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:38:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderPosition.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\OrderPosition.cs",
+              "RelativeDocumentMoniker": "Model\\OrderPosition.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\OrderPosition.cs",
+              "RelativeToolTip": "Model\\OrderPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:10:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "BasketResponseDTO.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\BasketResponseDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOModels\\BasketResponseDTO.cs",
@@ -195,72 +418,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderResponseDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderResponseDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\OrderResponseDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAawA8AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "WebStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\WebStoreContext.cs",
+              "RelativeDocumentMoniker": "DAL\\WebStoreContext.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\WebStoreContext.cs",
+              "RelativeToolTip": "DAL\\WebStoreContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:35:45.454Z",
+              "WhenOpened": "2025-03-04T17:03:17.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserLoginRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\UserLoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\UserLoginRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\UserLoginRequestDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\UserLoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:37:05.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductGroupRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupRequestDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:24:47.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductGroupResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductGroupResponseDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\ProductGroupResponseDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:23:46.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderDetailsResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\OrderDetailsResponseDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:36:24.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "ProductRequestDTO.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductRequestDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductRequestDTO.cs",
@@ -273,59 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductResponseDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductResponseDTO.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductResponseDTO.cs",
-              "RelativeToolTip": "BLL\\DTOModels\\ProductResponseDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:25:48.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "Model\\Product.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Product.cs",
-              "RelativeToolTip": "Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:08:26.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductGroup.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\ProductGroup.cs",
-              "RelativeDocumentMoniker": "Model\\ProductGroup.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\ProductGroup.cs",
-              "RelativeToolTip": "Model\\ProductGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:10:29.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\User.cs",
-              "RelativeToolTip": "Model\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:55:21.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\IOrderService.cs",
               "RelativeDocumentMoniker": "DAL\\IOrderService.cs",
@@ -338,8 +457,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DAL",
+              "DocumentIndex": 24,
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOModels\\ProductResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\DTOModels\\ProductResponseDTO.cs",
+              "RelativeToolTip": "BLL\\DTOModels\\ProductResponseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:25:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\ProductGroup.cs",
+              "RelativeDocumentMoniker": "Model\\ProductGroup.cs",
+              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\ProductGroup.cs",
+              "RelativeToolTip": "Model\\ProductGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:10:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\DAL.csproj",
@@ -351,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "20250304172257_Wiecej_Poprawek.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\Migrations\\20250304172257_Wiecej_Poprawek.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\20250304172257_Wiecej_Poprawek.cs",
@@ -363,31 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WebStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\WebStoreContext.cs",
-              "RelativeDocumentMoniker": "DAL\\WebStoreContext.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\WebStoreContext.cs",
-              "RelativeToolTip": "DAL\\WebStoreContext.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:03:17.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderPosition.cs",
-              "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\OrderPosition.cs",
-              "RelativeDocumentMoniker": "Model\\OrderPosition.cs",
-              "ToolTip": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\OrderPosition.cs",
-              "RelativeToolTip": "Model\\OrderPosition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T17:10:27.906Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "20250304170614_Poprawki_modelu.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\Migrations\\20250304170614_Poprawki_modelu.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\20250304170614_Poprawki_modelu.cs",
@@ -399,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
@@ -411,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "20250304165530_Iniciate_Database.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\Migrations\\20250304165530_Iniciate_Database.cs",
               "RelativeDocumentMoniker": "DAL\\Migrations\\20250304165530_Iniciate_Database.cs",
@@ -423,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "20250304163943_Iniciate_Database.cs",
               "DocumentMoniker": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\Migrations\\20250304163943_Iniciate_Database.cs",
               "ToolTip": "F:\\PB\\Lab1\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\DAL\\Migrations\\20250304163943_Iniciate_Database.cs",
@@ -433,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Micha\u0142\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI\\Program.cs",
