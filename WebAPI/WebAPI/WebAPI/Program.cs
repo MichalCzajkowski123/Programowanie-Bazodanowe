@@ -1,3 +1,5 @@
+using BLL.ServicesInterfaces;
+using BLL_EF;
 using DAL.Model;
 
 namespace WebAPI
@@ -9,6 +11,11 @@ namespace WebAPI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddScoped<IProductService, ProductService>();
+            builder.Services.AddScoped<IBasketService, BasketService>();
+            builder.Services.AddScoped<IOrderService, OrderService>();
+            builder.Services.AddScoped<IProductGroupService, ProductGroupService>();
+            builder.Services.AddScoped<IUserService, UserService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

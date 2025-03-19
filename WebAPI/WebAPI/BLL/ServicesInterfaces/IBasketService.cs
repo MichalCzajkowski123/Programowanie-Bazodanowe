@@ -12,5 +12,6 @@ namespace BLL.ServicesInterfaces
         void AddToBasket(BasketRequestDTO basket);
         void UpdateBasketAmount(int productId, int userId, int newAmount);
         void RemoveFromBasket(int productId, int userId);
+        IEnumerable<BasketResponseDTO> GetUserBasket(int userId);
     }
 }

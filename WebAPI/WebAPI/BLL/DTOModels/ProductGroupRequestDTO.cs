@@ -8,6 +8,7 @@ namespace BLL.DTOModels
 {
     public class ProductGroupRequestDTO
     {
+        public int ID { get; init; }
         public string Name { get; init; }
         public int? ParentID { get; init; }
 

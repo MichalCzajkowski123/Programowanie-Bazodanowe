@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOModels
 {
-    public class BasketRequestDTO
+    public class BasketResponseDTO
     {
         public int ProductID { get; init; }
-        public int UserID { get; init; }
+        public string ProductName { get; init; }
         public int Amount { get; init; }
     }
 }

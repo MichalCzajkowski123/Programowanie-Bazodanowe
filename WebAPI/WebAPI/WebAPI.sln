@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL_EF", "BLL_EF\BLL_EF.csproj", "{6C6162E4-A213-418E-BCFF-0850C28D5DAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator\DataGenerator.csproj", "{F6337D70-19A9-439B-B081-E2BA341373EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6C6162E4-A213-418E-BCFF-0850C28D5DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C6162E4-A213-418E-BCFF-0850C28D5DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C6162E4-A213-418E-BCFF-0850C28D5DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6337D70-19A9-439B-B081-E2BA341373EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6337D70-19A9-439B-B081-E2BA341373EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6337D70-19A9-439B-B081-E2BA341373EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6337D70-19A9-439B-B081-E2BA341373EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

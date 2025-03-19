@@ -1,6 +1,7 @@
 ﻿using BLL.DTOModels;
 using BLL.ServicesInterfaces;
 using DAL.Model;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,7 +38,7 @@ namespace BLL_EF
                 existingBasketPosition.Amount += basketDto.Amount;
             }
             else
-            { 
+            {
                 var basketPosition = new BasketPosition
                 {
                     ProductID = basketDto.ProductID,
@@ -51,6 +52,8 @@ namespace BLL_EF
             _context.SaveChanges();
         }
 
+
+
         public void UpdateBasketAmount(int productId, int userId, int newAmount)
         {
             var basketPosition = _context.BasketPositions
@@ -58,7 +61,7 @@ namespace BLL_EF
 
             if (basketPosition == null)
             {
-                throw new ArgumentException("Basket position not found.");
+                throw new ArgumentException("Basket position not found. Add product first.");
             }
 
             basketPosition.Amount = newAmount;
@@ -77,6 +80,21 @@ namespace BLL_EF
 
             _context.BasketPositions.Remove(basketPosition);
             _context.SaveChanges();
+        }
+        public IEnumerable<BasketResponseDTO> GetUserBasket(int userId)
+        {
+            var query = _context.BasketPositions
+                .Include(bp => bp.Product)
+                .Where(bp => bp.UserID == userId);
+
+            var result = query.Select(bp => new BasketResponseDTO
+            {
+                ProductID = bp.ProductID,
+                ProductName = bp.Product != null ? bp.Product.Name : "Unknown",
+                Amount = bp.Amount
+            }).ToList();
+
+            return result;
         }
     }
 }

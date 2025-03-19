@@ -12,7 +12,7 @@ namespace BLL.ServicesInterfaces
         IEnumerable<ProductResponseDTO> GetProducts(
             string? nameFilter = null, string? groupNameFilter = null, int? groupIdFilter = null,
             bool includeInactive = false, string? sortBy = "Name", bool descending = false);
-        string GetFullGroupName(int productId);
+        string GetFullGroupName(int groupId);
         void AddProduct(ProductRequestDTO product);
         void DeactivateProduct(int productId);
         void ActivateProduct(int productId);
