@@ -469,3 +469,6 @@ C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\BLL_EF.dll
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\BLL_EF.pdb
+C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\BLL_DB.dll
+C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\WebAPI\bin\Debug\net8.0\BLL_DB.pdb

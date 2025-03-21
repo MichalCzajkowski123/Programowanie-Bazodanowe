@@ -64,10 +64,6 @@ namespace BLL_EF
 
             return result;
         }
-
-
-
-
         public void AddProduct(ProductRequestDTO productDto)
         {
             var product = new Product

@@ -51,9 +51,6 @@ namespace BLL_EF
 
             _context.SaveChanges();
         }
-
-
-
         public void UpdateBasketAmount(int productId, int userId, int newAmount)
         {
             var basketPosition = _context.BasketPositions
