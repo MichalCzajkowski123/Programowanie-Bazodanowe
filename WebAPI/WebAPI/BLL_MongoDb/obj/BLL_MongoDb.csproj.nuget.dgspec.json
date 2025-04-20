@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_MongoDb\\BLL_MongoDb.csproj": {}
+  },
+  "projects": {
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\jacek\\.nuget\\packages\\",
+        "outputPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS2019\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_MongoDb\\BLL_MongoDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_MongoDb\\BLL_MongoDb.csproj",
+        "projectName": "BLL_MongoDb",
+        "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_MongoDb\\BLL_MongoDb.csproj",
+        "packagesPath": "C:\\Users\\jacek\\.nuget\\packages\\",
+        "outputPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL_MongoDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS2019\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\BLL\\BLL.csproj"
+              },
+              "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+                "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\jacek\\.nuget\\packages\\",
+        "outputPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\VS2019\\SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

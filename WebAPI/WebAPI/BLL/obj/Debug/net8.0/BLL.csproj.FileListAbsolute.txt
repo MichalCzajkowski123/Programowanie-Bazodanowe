@@ -10,3 +10,15 @@ C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\refint\BLL.dll
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.pdb
 C:\Users\Michał\Documents\GitHub\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\ref\BLL.dll
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\bin\Debug\net8.0\BLL.dll
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.dll
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Michal\PB\Programowanie-Bazodanowe\WebAPI\WebAPI\BLL\obj\Debug\net8.0\ref\BLL.dll

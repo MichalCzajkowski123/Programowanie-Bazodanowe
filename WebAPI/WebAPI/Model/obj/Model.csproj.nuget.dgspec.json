@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {}
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
+    "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\Michał\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Michał\\Documents\\GitHub\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\obj\\",
+        "projectPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\jacek\\.nuget\\packages\\",
+        "outputPath": "D:\\Michal\\PB\\Programowanie-Bazodanowe\\WebAPI\\WebAPI\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\VS2019\\SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Michał\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jacek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
